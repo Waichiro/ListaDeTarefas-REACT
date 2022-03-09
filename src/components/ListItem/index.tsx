@@ -1,6 +1,6 @@
 import * as C from './styles';
 import { Item } from '../../types/item'
-import { useState } from 'react';
+
 
 type Props = {
     item: Item,
